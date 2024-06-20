@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WordPress Liara S3-Storage\n"
+"POT-Creation-Date: 2024-06-20 16:37+0330\n"
+"PO-Revision-Date: 2024-06-20 13:47+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-liara-s3-storage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/options.php:3
+msgid "Bucket Name"
+msgstr ""
+
+#: includes/options.php:6
+msgid "Add your preferred bucket name."
+msgstr ""
+
+#: includes/options.php:10
+msgid "Connected Domain"
+msgstr ""
+
+#: includes/options.php:13
+msgid ""
+"Add your custom domain name connected to this bucket. It should start with "
+"<code>http</code> or <code>https</code>. Don't forget to add a trailing "
+"slash. Example: <code>https://example.com/</code>"
+msgstr ""
+
+#: includes/options.php:18
+msgid "API Endpoint"
+msgstr ""
+
+#: includes/options.php:21
+msgid ""
+"Add API endpoint URL for this bucket. By Liara's default, it's "
+"<code>https://storage.iran.liara.space</code>."
+msgstr ""
+
+#: includes/options.php:26
+msgid "Accses Key"
+msgstr ""
+
+#: includes/options.php:29
+msgid ""
+"Add your <strong>Access Key</strong> for this bucket. You can managae your "
+"keys at <code>https://console.liara.ir/buckets/keys</code>."
+msgstr ""
+
+#: includes/options.php:34
+msgid "Secret Key"
+msgstr ""
+
+#: includes/options.php:37
+msgid ""
+"Add your <strong>Secret Key</strong> for this bucket. You can managae your "
+"keys at <code>https://console.liara.ir/buckets/keys</code>."
+msgstr ""
+
+#: includes/options.php:43
+msgid "Usage"
+msgstr ""
+
+#: includes/options.php:44
+msgid ""
+"To list all files on your bucket, simply use the <code>[liara-list-files]</"
+"code> shortcode inside your post or page. To limit the file list to a "
+"specific folder, you can use the <code>[liara-list-files location=\"books"
+"\"]</code> shortcode."
+msgstr ""
+
+#: includes/settings.php:6 includes/settings.php:25
+msgid "Liara S3-Storage Settings"
+msgstr ""
+
+#: includes/settings.php:7
+msgid ""
+"On this page, you can customize the settings of the Liara S3-Storage plugin."
+msgstr ""
+
+#: includes/settings.php:26
+msgid "Liara S3"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Liara S3-Storage for WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://byreza.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple UI to access Liara s3-storage files inside wordpress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Reza Qalekhani"
+msgstr ""
